@@ -9,8 +9,8 @@
 
 
 
-Prefeb 폴더에 자기가 만든 캔버스 넣고 성 뒤에 Prefeb 붙이기
+Prefeb 폴더에 자기가 만든 캔버스 넣고 성 뒤에 Prefab 붙이기
 
-예시)Choi_Prefeb
+예시)Choi_Prefab
 
 
